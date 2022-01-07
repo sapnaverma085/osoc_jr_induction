@@ -1,0 +1,6 @@
+Merge conflicts in git happen, when two branches were changed on the same line or in the same content of a file.
+so i created same file in main branch which i created in another branch and add some changes to it to make a merge conflict.
+then merge both the branch.
+How I resolved it:- I opened the file to resolve the conflict
+ and then correct the content and saved the file
+after that i added and commited the change in main branch.
