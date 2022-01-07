@@ -1,0 +1,42 @@
+commit 5779955ef8667d25c808866d10b2985177244745
+Author: Sapna <sandhyaverma0204@gmail.com>
+Date:   Fri Jan 7 20:04:02 2022 +0530
+
+    added all the screenshots
+
+commit 2e2c480ad1fb3a3df68b757441eb2dbec2c572e9
+Author: Sapna <sandhyaverma0204@gmail.com>
+Date:   Fri Jan 7 20:02:14 2022 +0530
+
+    created a folder of all the screenshots
+
+commit b2a2aaa5354c89994ac10478f9ec47f6230d0daf
+Author: Sapna <sandhyaverma0204@gmail.com>
+Date:   Fri Jan 7 19:52:47 2022 +0530
+
+    created a merge conflict file
+
+commit 891b666881930cf31c84f2bcd4d53ffb2037869d
+Merge: db6af22 b6790d5
+Author: Sapna <sandhyaverma0204@gmail.com>
+Date:   Fri Jan 7 19:36:59 2022 +0530
+
+    resolved merge conflict
+
+commit db6af22a73109b6f837f56e5bdd4e7121da66b29
+Author: Sapna <sandhyaverma0204@gmail.com>
+Date:   Fri Jan 7 19:33:51 2022 +0530
+
+    created same name file in main branch to create merge conflict
+
+commit b6790d5babd180152896e1771499cdb85e872682
+Author: Sapna <sandhyaverma0204@gmail.com>
+Date:   Fri Jan 7 19:29:35 2022 +0530
+
+    created a file about 10 git commands
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
